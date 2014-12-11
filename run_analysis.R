@@ -81,8 +81,8 @@ rm( train, trainSubject, trainX, trainY,
 ## variable for each activity and each subject and storing the result in
 ## the 'meanTidyDataset' variable
 meanTidyDataset <- aggregate( tidyDataset[3:ncol(tidyDataset)],
-                              by=list( Subject=tidyDataset$Subject,
-                                       Activity=tidyDataset$Activity ),
+                              by=list( Activity=tidyDataset$Activity,
+                                       Subject=tidyDataset$Subject ),
                               FUN=mean )
 
 ## then we write the mean tidy dataset in the working directory
