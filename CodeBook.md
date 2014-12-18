@@ -38,12 +38,14 @@ In addition of "subject" and "activity" variables there are the average of 46 "m
 (subject) is the id number of the subject, there is a total of 30 different subjects  
 
 * <B>activity</B><BR> = categorical with 6 different strings (one string by activitiy):<BR>
+<BR>
 LAYING <BR>
 SITTING <BR>
 STANDING <BR>
 WALKING <BR>
 WALKING_DOWNSTAIRS <BR>
 WALKING_UPSTAIRS    <BR>
+<BR>
 (activity) is the name of the activity done by the subject for the observed features.  
 
 * <B>tBodyAcc_mean_X</B><BR> = numeric mean value normalized and bounded within range –1 to 1
