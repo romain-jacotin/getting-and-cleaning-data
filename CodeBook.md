@@ -6,11 +6,11 @@ This document describes in the following chapters the variables and units used i
 * Extract of the tidy data
 * The variables
 
-<I><B>Note</B>: To learn more about the Raw Data, read the [README](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/CodeBook.md "README.md").</I>
+<I><B>Note</B>: To learn more about the Raw Data, read the [README](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/README.md "README.md") file.</I>
 
 # The Tidy Data
 
-The tidy data are on the file named [meanTidyDataset.txt](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/meanTidyDataset.txt "meanTidyDataset.txt")
+The tidy data are in the file named [meanTidyDataset.txt](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/meanTidyDataset.txt "meanTidyDataset.txt")
 
 ## Summary choice
 

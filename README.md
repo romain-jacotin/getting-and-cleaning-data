@@ -21,7 +21,7 @@ The raw data of the project can be download there:
 
 # The Tidy Data
 
-The tidy data are on the file named [meanTidyDataset.txt](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/meanTidyDataset.txt "meanTidyDataset.txt")
+The tidy data are in the file named [meanTidyDataset.txt](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/meanTidyDataset.txt "meanTidyDataset.txt")
 
 ## Summary choice
 
