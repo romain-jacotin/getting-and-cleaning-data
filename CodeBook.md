@@ -10,7 +10,7 @@ A full description is available at the site where the data was obtained:
 The raw data of the project can be download there:
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "raw data")
 
-# Recipe
+# The Recipe
 
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/trainYtestY.png)
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/features.png)
