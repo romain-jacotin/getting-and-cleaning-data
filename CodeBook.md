@@ -48,240 +48,240 @@ WALKING_UPSTAIRS    <BR>
 <BR>
 (activity) is the name of the activity done by the subject for the observed features.  
 
-* <B>tBodyAcc_mean_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAcc-mean()-X</CODE>  
+* <B>tBodyAcc_mean_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAcc-mean()-X</CODE>  
 
-* <B>tBodyAcc_mean_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAcc-mean()-Y</CODE>
+* <B>tBodyAcc_mean_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAcc-mean()-Y</CODE>
 
-* <B>tBodyAcc_mean_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAcc-mean()-Z</CODE>  
+* <B>tBodyAcc_mean_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAcc-mean()-Z</CODE>  
 
-* <B>tBodyAcc_std_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAcc-std()-X</CODE>  
+* <B>tBodyAcc_std_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAcc-std()-X</CODE>  
  
-* <B>tBodyAcc_std_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAcc-std()-Y</CODE>  
+* <B>tBodyAcc_std_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAcc-std()-Y</CODE>  
  
-* <B>tBodyAcc_std_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAcc-std()-Z</CODE>  
+* <B>tBodyAcc_std_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAcc-std()-Z</CODE>  
 
-* <B>tGravityAcc_mean_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tGravityAcc-mean()-X</CODE>  
+* <B>tGravityAcc_mean_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tGravityAcc-mean()-X</CODE>  
 
-* <B>tGravityAcc_mean_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tGravityAcc-mean()-Y</CODE>  
+* <B>tGravityAcc_mean_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tGravityAcc-mean()-Y</CODE>  
 
-* <B>tGravityAcc_mean_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tGravityAcc-mean()-Z</CODE>  
+* <B>tGravityAcc_mean_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tGravityAcc-mean()-Z</CODE>  
 
-* <B>tGravityAcc_std_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tGravityAcc-std()-X</CODE>  
+* <B>tGravityAcc_std_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tGravityAcc-std()-X</CODE>  
 
-* <B>tGravityAcc_std_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tGravityAcc-std()-Y</CODE>  
+* <B>tGravityAcc_std_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tGravityAcc-std()-Y</CODE>  
 
-* <B>tGravityAcc_std_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tGravityAcc-std()-Z</CODE>  
+* <B>tGravityAcc_std_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tGravityAcc-std()-Z</CODE>  
 
-* <B>tBodyAccJerk_mean_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccJerk-mean()-X</CODE>  
+* <B>tBodyAccJerk_mean_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccJerk-mean()-X</CODE>  
 
-* <B>tBodyAccJerk_mean_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccJerk-mean()-Y</CODE>  
+* <B>tBodyAccJerk_mean_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccJerk-mean()-Y</CODE>  
 
-* <B>tBodyAccJerk_mean_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccJerk-mean()-Z</CODE>  
+* <B>tBodyAccJerk_mean_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccJerk-mean()-Z</CODE>  
 
-* <B>tBodyAccJerk_std_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccJerk-std()-X</CODE>  
+* <B>tBodyAccJerk_std_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccJerk-std()-X</CODE>  
 
-* <B>tBodyAccJerk_std_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccJerk-std()-Y</CODE>  
+* <B>tBodyAccJerk_std_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccJerk-std()-Y</CODE>  
 
-* <B>tBodyAccJerk_std_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccJerk-std()-Z</CODE>  
+* <B>tBodyAccJerk_std_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccJerk-std()-Z</CODE>  
 
-* <B>tBodyGyro_mean_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyro-mean()-X</CODE>  
+* <B>tBodyGyro_mean_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyro-mean()-X</CODE>  
 
-* <B>tBodyGyro_mean_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyro-mean()-Y</CODE>  
+* <B>tBodyGyro_mean_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyro-mean()-Y</CODE>  
 
-* <B>tBodyGyro_mean_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyro-mean()-Z</CODE>  
+* <B>tBodyGyro_mean_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyro-mean()-Z</CODE>  
 
-* <B>tBodyGyro_std_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyro-std()-X</CODE>  
+* <B>tBodyGyro_std_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyro-std()-X</CODE>  
 
-* <B>tBodyGyro_std_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyro-std()-Y</CODE>  
+* <B>tBodyGyro_std_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyro-std()-Y</CODE>  
 
-* <B>tBodyGyro_std_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyro-std()-Z</CODE>  
+* <B>tBodyGyro_std_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyro-std()-Z</CODE>  
 
-* <B>tBodyGyroJerk_mean_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroJerk-mean()-X</CODE>  
+* <B>tBodyGyroJerk_mean_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroJerk-mean()-X</CODE>  
 
-* <B>tBodyGyroJerk_mean_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroJerk-mean()-Y</CODE>  
+* <B>tBodyGyroJerk_mean_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroJerk-mean()-Y</CODE>  
 
-* <B>tBodyGyroJerk_mean_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroJerk-mean()-Z</CODE>  
+* <B>tBodyGyroJerk_mean_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroJerk-mean()-Z</CODE>  
 
-* <B>tBodyGyroJerk_std_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroJerk-std()-X</CODE>  
+* <B>tBodyGyroJerk_std_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroJerk-std()-X</CODE>  
 
-* <B>tBodyGyroJerk_std_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroJerk-std()-Y</CODE>  
+* <B>tBodyGyroJerk_std_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroJerk-std()-Y</CODE>  
 
-* <B>tBodyGyroJerk_std_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroJerk-std()-Z</CODE>  
+* <B>tBodyGyroJerk_std_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroJerk-std()-Z</CODE>  
 
-* <B>tBodyAccMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccMag-mean()</CODE>  
+* <B>tBodyAccMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccMag-mean()</CODE>  
 
-* <B>tBodyAccMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccMag-std()</CODE>  
+* <B>tBodyAccMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccMag-std()</CODE>  
 
-* <B>tGravityAccMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tGravityAccMag-mean()</CODE>  
+* <B>tGravityAccMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tGravityAccMag-mean()</CODE>  
 
-* <B>tGravityAccMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tGravityAccMag-std()</CODE>  
+* <B>tGravityAccMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tGravityAccMag-std()</CODE>  
 
-* <B>tBodyAccJerkMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccJerkMag-mean()</CODE>  
+* <B>tBodyAccJerkMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccJerkMag-mean()</CODE>  
 
-* <B>tBodyAccJerkMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyAccJerkMag-std()</CODE>  
+* <B>tBodyAccJerkMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyAccJerkMag-std()</CODE>  
 
-* <B>tBodyGyroMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroMag-mean()</CODE>  
+* <B>tBodyGyroMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroMag-mean()</CODE>  
 
-* <B>tBodyGyroMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroMag-std()</CODE><BR>
+* <B>tBodyGyroMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroMag-std()</CODE><BR>
 
-* <B>tBodyGyroJerkMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroJerkMag-mean()</CODE>  
+* <B>tBodyGyroJerkMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroJerkMag-mean()</CODE>  
 
-* <B>tBodyGyroJerkMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>tBodyGyroJerkMag-std()</CODE>  
+* <B>tBodyGyroJerkMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>tBodyGyroJerkMag-std()</CODE>  
 
-* <B>fBodyAcc_mean_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-mean()-X</CODE>  
+* <B>fBodyAcc_mean_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-mean()-X</CODE>  
 
-* <B>fBodyAcc_mean_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-mean()-Y</CODE>  
+* <B>fBodyAcc_mean_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-mean()-Y</CODE>  
 
-* <B>fBodyAcc_mean_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-mean()-Z</CODE>  
+* <B>fBodyAcc_mean_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-mean()-Z</CODE>  
 
-* <B>fBodyAcc_std_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-std()-X</CODE>  
+* <B>fBodyAcc_std_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-std()-X</CODE>  
 
-* <B>fBodyAcc_std_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-std()-Y</CODE>  
+* <B>fBodyAcc_std_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-std()-Y</CODE>  
 
-* <B>fBodyAcc_std_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-std()-Z</CODE>  
+* <B>fBodyAcc_std_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-std()-Z</CODE>  
 
-* <B>fBodyAcc_meanFreq_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-meanFreq()-X</CODE>  
+* <B>fBodyAcc_meanFreq_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-meanFreq()-X</CODE>  
 
-* <B>fBodyAcc_meanFreq_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-meanFreq()-Y</CODE>  
+* <B>fBodyAcc_meanFreq_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-meanFreq()-Y</CODE>  
 
-* <B>fBodyAcc_meanFreq_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAcc-meanFreq()-Z</CODE>  
+* <B>fBodyAcc_meanFreq_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAcc-meanFreq()-Z</CODE>  
 
-* <B>fBodyAccJerk_mean_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-mean()-X</CODE>  
+* <B>fBodyAccJerk_mean_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-mean()-X</CODE>  
 
-* <B>fBodyAccJerk_mean_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-mean()-Y</CODE>  
+* <B>fBodyAccJerk_mean_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-mean()-Y</CODE>  
 
-* <B>fBodyAccJerk_mean_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-mean()-Z</CODE>  
+* <B>fBodyAccJerk_mean_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-mean()-Z</CODE>  
 
-* <B>fBodyAccJerk_std_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-std()-X</CODE>  
+* <B>fBodyAccJerk_std_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-std()-X</CODE>  
 
-* <B>fBodyAccJerk_std_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-std()-Y</CODE>  
+* <B>fBodyAccJerk_std_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-std()-Y</CODE>  
 
-* <B>fBodyAccJerk_std_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-std()-Z</CODE>  
+* <B>fBodyAccJerk_std_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-std()-Z</CODE>  
 
-* <B>fBodyAccJerk_meanFreq_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-meanFreq()-X</CODE>  
+* <B>fBodyAccJerk_meanFreq_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-meanFreq()-X</CODE>  
 
-* <B>fBodyAccJerk_meanFreq_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-meanFreq()-Y</CODE>  
+* <B>fBodyAccJerk_meanFreq_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-meanFreq()-Y</CODE>  
 
-* <B>fBodyAccJerk_meanFreq_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccJerk-meanFreq()-Z</CODE>  
+* <B>fBodyAccJerk_meanFreq_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccJerk-meanFreq()-Z</CODE>  
 
-* <B>fBodyGyro_mean_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-mean()-X</CODE>  
+* <B>fBodyGyro_mean_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-mean()-X</CODE>  
 
-* <B>fBodyGyro_mean_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-mean()-Y</CODE>  
+* <B>fBodyGyro_mean_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-mean()-Y</CODE>  
 
-* <B>fBodyGyro_mean_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-mean()-Z</CODE>  
+* <B>fBodyGyro_mean_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-mean()-Z</CODE>  
 
-* <B>fBodyGyro_std_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-std()-X</CODE>  
+* <B>fBodyGyro_std_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-std()-X</CODE>  
 
-* <B>fBodyGyro_std_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-std()-Y</CODE>  
+* <B>fBodyGyro_std_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-std()-Y</CODE>  
 
-* <B>fBodyGyro_std_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-std()-Z</CODE>  
+* <B>fBodyGyro_std_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-std()-Z</CODE>  
 
-* <B>fBodyGyro_meanFreq_X</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-meanFreq()-X</CODE>  
+* <B>fBodyGyro_meanFreq_X</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-meanFreq()-X</CODE>  
 
-* <B>fBodyGyro_meanFreq_Y</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-meanFreq()-Y</CODE>  
+* <B>fBodyGyro_meanFreq_Y</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-meanFreq()-Y</CODE>  
 
-* <B>fBodyGyro_meanFreq_Z</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyGyro-meanFreq()-Z</CODE>  
+* <B>fBodyGyro_meanFreq_Z</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyGyro-meanFreq()-Z</CODE>  
 
-* <B>fBodyAccMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccMag-mean()</CODE>  
+* <B>fBodyAccMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccMag-mean()</CODE>  
 
-* <B>fBodyAccMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccMag-std()</CODE>  
+* <B>fBodyAccMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccMag-std()</CODE>  
 
-* <B>fBodyAccMag_meanFreq</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyAccMag-meanFreq()</CODE>  
+* <B>fBodyAccMag_meanFreq</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyAccMag-meanFreq()</CODE>  
 
-* <B>fBodyBodyAccJerkMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyAccJerkMag-mean()</CODE>  
+* <B>fBodyBodyAccJerkMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyAccJerkMag-mean()</CODE>  
 
-* <B>fBodyBodyAccJerkMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyAccJerkMag-std()</CODE>  
+* <B>fBodyBodyAccJerkMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyAccJerkMag-std()</CODE>  
 
-* <B>fBodyBodyAccJerkMag_meanFreq</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyAccJerkMag-meanFreq()</CODE>  
+* <B>fBodyBodyAccJerkMag_meanFreq</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyAccJerkMag-meanFreq()</CODE>  
 
-* <B>fBodyBodyGyroMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyGyroMag-mean()</CODE>  
+* <B>fBodyBodyGyroMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyGyroMag-mean()</CODE>  
 
-* <B>fBodyBodyGyroMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyGyroMag-std()</CODE>  
+* <B>fBodyBodyGyroMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyGyroMag-std()</CODE>  
 
-* <B>fBodyBodyGyroMag_meanFreq</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyGyroMag-meanFreq()</CODE>  
+* <B>fBodyBodyGyroMag_meanFreq</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyGyroMag-meanFreq()</CODE>  
 
-* <B>fBodyBodyGyroJerkMag_mean</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyGyroJerkMag-mean()</CODE>  
+* <B>fBodyBodyGyroJerkMag_mean</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyGyroJerkMag-mean()</CODE>  
 
-* <B>fBodyBodyGyroJerkMag_std</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyGyroJerkMag-std()</CODE>  
+* <B>fBodyBodyGyroJerkMag_std</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyGyroJerkMag-std()</CODE>  
 
-* <B>fBodyBodyGyroJerkMag_meanFreq</B><BR> = numeric average value normalized and bounded within range –1 to 1
-<BR>It is the original raw data feature labeled <CODE>fBodyBodyGyroJerkMag-meanFreq()</CODE>  
+* <B>fBodyBodyGyroJerkMag_meanFreq</B><BR> = numeric value  bounded within range –1 to 1
+<BR>It is the average of the original raw data feature values labeled <CODE>fBodyBodyGyroJerkMag-meanFreq()</CODE>  
 
