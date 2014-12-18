@@ -13,8 +13,10 @@ The raw data of the project can be download there:
 # Recipe
 
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/activities.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/features.png)
 
-# The tidy Data set
+
+# The Tidy Data Set
 
 ## Summary choice
 
