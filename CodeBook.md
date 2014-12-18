@@ -12,12 +12,21 @@ The raw data of the project can be download there:
 
 # The Recipe
 
+The following R script takes the raw data as input and produces the tidy as output.
+
+[run_analysis.R](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/run_analysis.R "run_analysis.R")
+
+<I><B>Note</B>: At the end the R script write the tidy data set in a "txt" file name "meanTidyDataset.txt" without row names.</I>
+
+## Steps by steps
+The R script is doing the following steps:<BR>
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/trainYtestY.png)
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/features.png)
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/merge.png)
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/filter.png)
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/aggregate.png)
 
+<I><B>Note</B>: At the end the R script write the tidy data set in a "txt" file name "meanTidyDataset.txt" without row names.</I>
 
 # The Tidy Data Set
 
@@ -53,7 +62,7 @@ STANDING <BR>
 WALKING <BR>
 WALKING_DOWNSTAIRS <BR>
 WALKING_UPSTAIRS    <BR>
-(activity) is the name of the activity done by the subject for the observed features. There is a total of 6 different activities  
+(activity) is the name of the activity done by the subject for the observed features.  
 
 * <B>tBodyAcc_mean_X</B><BR> = numeric mean value normalized and bounded within range –1 to 1
 It is the original raw data feature labeled <CODE>"tBodyAcc-mean()-X"</CODE>  
