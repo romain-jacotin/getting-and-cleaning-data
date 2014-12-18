@@ -12,8 +12,8 @@ The raw data of the project can be download there:
 
 # Recipe
 
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/activities.png)
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/features.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/trainYtestY.png)
 
 
 # The Tidy Data Set
@@ -44,14 +44,12 @@ In addition of "subject" and "activity" variables there are 46 "mean" features a
 (subject) is the id number of the subject, there is a total of 30 different subjects  
 
 * <B>activity</B><BR> = categorical with 6 different strings (one string by activitiy):<BR>
-| activity           
-|--------------------
-| LAYING             
-| SITTING             
-| STANDING           
-| WALKING            
-| WALKING_DOWNSTAIRS 
-| WALKING_UPSTAIRS    <BR>
+LAYING <BR>
+SITTING <BR>
+STANDING <BR>
+WALKING <BR>
+WALKING_DOWNSTAIRS <BR>
+WALKING_UPSTAIRS    <BR>
 (activity) is the name of the activity done by the subject for the observed features. There is a total of 6 different activities  
 
 * <B>tBodyAcc_mean_X</B><BR> = numeric mean value normalized and bounded within range –1 to 1
