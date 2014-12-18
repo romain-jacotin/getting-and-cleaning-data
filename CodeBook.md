@@ -12,8 +12,11 @@ The raw data of the project can be download there:
 
 # Recipe
 
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/features.png)
 ![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/trainYtestY.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/features.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/merge.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/filter.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/aggregate.png)
 
 
 # The Tidy Data Set
