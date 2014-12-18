@@ -1,16 +1,16 @@
-# The Raw Data
+# Introduction
 
-![](http://i2.cdscdn.com/pdt2/7/7/2/1/700x700/auc8650132140772/rw/housse-brassard-sport-samsu.jpg)
+This document describes in the following chapters the variables and units used in the tidy data. 
 
-The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
+* Summary choice
+* Extract of the tidy data
+* The variables
 
-A full description is available at the site where the data was obtained:
-[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones "Source")
+<I><B>Note</B>: To learn more about the Raw Data, read the [README](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/CodeBook.md "README.md").</I>
 
-The raw data of the project can be download there:
-[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "raw data")
+# The Tidy Data
 
-# The Tidy Data Set
+The tidy data are on the file named [meanTidyDataset.txt](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/meanTidyDataset.txt "meanTidyDataset.txt")
 
 ## Summary choice
 
