@@ -28,13 +28,18 @@ The R script is doing the following steps:<BR>
 
 <I><B>Note</B>: At the end the R script write the tidy data set in a "txt" file name "meanTidyDataset.txt" without row names.</I>
 
+# The Code Book
+
+The Code Book describes the variables of the tidy data set.
+
+[Code Book](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/CodeBook.md "CodeBook.md")
 # The Tidy Data Set
 
 ## Summary choice
 
 This tidy dataset contains 180 observations ( = 30 subjects by 6 activities) of 81 variables.
-In addition of "subject" and "activity" variables there are 46 "mean" features and 33 "standard deviation" features measurement concerning the physical "activity" of a specific "subject".
-<BR><I>Notes: the 79 features are original <B>mean</B> or <B>standard deviation</B> numeric values extracted from the original raw data.</I>
+In addition of "subject" and "activity" variables there are the average of 46 "mean" features and 33 "standard deviation" features measurement concerning the physical "activity" of a specific "subject".
+<BR><I>Notes: the 79 average features are calculated from the original <B>mean</B> or <B>standard deviation</B> numeric values extracted from the original raw data.</I>
 
 ## Extract of the tidy data
 
@@ -50,9 +55,5 @@ In addition of "subject" and "activity" variables there are 46 "mean" features a
        2 |           SITTING  |     0.2770874   | -0.015687994    |  -0.1092183     | -0.98682228    | ...
     ...  |               ...  |        ...      |    ...          |      ...        |       ...      | ...
 
-# The Code Book
 
-The Code Book describes the variables of the tidy data set.
-
-[Code Book](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/CodeBook.md "CodeBook.md")
 

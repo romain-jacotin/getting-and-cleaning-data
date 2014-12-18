@@ -10,31 +10,13 @@ A full description is available at the site where the data was obtained:
 The raw data of the project can be download there:
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "raw data")
 
-# The Recipe
-
-The following R script takes the raw data as input and produces the tidy as output.
-
-[run_analysis.R](https://github.com/romain-jacotin/getting-and-cleaning-data/blob/master/run_analysis.R "run_analysis.R")
-
-<I><B>Note</B>: At the end the R script write the tidy data set in a "txt" file name "meanTidyDataset.txt" without row names.</I>
-
-## Steps by steps
-The R script is doing the following steps:<BR>
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/trainYtestY.png)
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/features.png)
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/merge.png)
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/filter.png)
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/aggregate.png)
-
-<I><B>Note</B>: At the end the R script write the tidy data set in a "txt" file name "meanTidyDataset.txt" without row names.</I>
-
 # The Tidy Data Set
 
 ## Summary choice
 
 This tidy dataset contains 180 observations ( = 30 subjects by 6 activities) of 81 variables.
-In addition of "subject" and "activity" variables there are 46 "mean" features and 33 "standard deviation" features measurement concerning the physical "activity" of a specific "subject".
-<BR><I>Notes: the 79 features are original <B>mean</B> or <B>standard deviation</B> numeric values extracted from the original raw data.</I>
+In addition of "subject" and "activity" variables there are the average of 46 "mean" features and 33 "standard deviation" features measurement concerning the physical "activity" of a specific "subject".
+<BR><I>Notes: the 79 average features are calculated from the original <B>mean</B> or <B>standard deviation</B> numeric values extracted from the original raw data.</I>
 
 ## Extract of the tidy data
 
