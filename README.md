@@ -58,10 +58,10 @@ The following R script takes the raw data as input and produces the tidy as outp
 
 ## Steps by steps
 The R script is doing the following steps:<BR>
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/trainYtestY.png)
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/features.png)
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/merge.png)
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/filter.png)
-![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/aggregate.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/images/trainYtestY.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/images/features.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/images/merge.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/images/filter.png)
+![](https://raw.githubusercontent.com/romain-jacotin/getting-and-cleaning-data/master/images/aggregate.png)
 
 <I><B>Note</B>: At the end the R script write the tidy data set in a "txt" file name "meanTidyDataset.txt" without row names.</I>
